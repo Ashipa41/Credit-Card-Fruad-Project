@@ -1,5 +1,5 @@
 # Credit-Card-Fruad-Project
-Credit Card Fraud Detection Using Machine Learning Techniques
+This project untillizes machine learning models for detecting credit card fraud in financial organizations. The dataset was gotten from Kaggle, containing 8 attributes and 1,000,000 rows; implementation in Python.
 
 ## Abstract
 
@@ -26,6 +26,9 @@ This dissertation aims to use machine learning technique to detect credit card f
 The dataset was retrieved from an open-source website, Kaggle.com, founded in 2010, which is a platform where people can find datasets, participate in competitions, and collaborate with others in the fields of machine learning and data science. The dataset consists of 8 attributes and 1,000,000 rows, which are all numeric. The attributes include "distance_from_home," which means the distance from home where the transaction happened, and "distance_from_last_transaction," which also means the distance from where the last transaction happened. The last observation is the class "fraud," which contains binary variables where “1” is a case of fraudulent transaction and “0” is not a case of fraudulent transaction.
 
 Dataset : https://www.kaggle.com/datasets/dhanushnarayananr/credit-card-fraud/data
+
+# Algorithm
+1. 
 
 ## LIMITATIONS
 
