@@ -30,9 +30,9 @@ Dataset : https://www.kaggle.com/datasets/dhanushnarayananr/credit-card-fraud/da
 # Algorithm
 1. Random Forest
 2. Decision Tree
-3. K Nearest Neighbour(KNN)
+3. K Nearest Neighbour (KNN)
 4. Logistic Regression
-5. Support Vector Machine(SVM)
+5. Support Vector Machine (SVM)
 
 ## LIMITATIONS
 
