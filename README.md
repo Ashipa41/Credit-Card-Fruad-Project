@@ -28,7 +28,11 @@ The dataset was retrieved from an open-source website, Kaggle.com, founded in 20
 Dataset : https://www.kaggle.com/datasets/dhanushnarayananr/credit-card-fraud/data
 
 # Algorithm
-1. 
+1. Random Forest
+2. Decision Tree
+3. K Nearest Neighbour(KNN)
+4. Logistic Regression
+5. Support Vector Machine(SVM)
 
 ## LIMITATIONS
 
