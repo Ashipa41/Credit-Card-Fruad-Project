@@ -17,8 +17,8 @@ This dissertation aims to use machine learning technique to detect credit card f
 
 ## RESEARCH QUESTION
 1.	Which machine learning algorithms would be most effective in detecting credit card fraud ?
-2.	What are the ethical implications of using machine learning for credit card fraud detection?
-3.	What is the cost-benefit analysis of implementing machine learning-based fraud detection systems for financial institutions?
+2.	What are the ethical implications of using machine learning for credit card fraud detection ?
+3.	What is the cost-benefit analysis of implementing machine learning-based fraud detection systems for financial institutions ?
 
 
 ## DATA SOURCE
