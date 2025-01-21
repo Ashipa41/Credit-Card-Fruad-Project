@@ -1,5 +1,5 @@
 # Credit-Card-Fruad-Project
-This project untillizes machine learning models for detecting credit card fraud in financial organizations. The dataset was gotten from Kaggle, containing 8 attributes and 1,000,000 rows; implementation in Python
+This project untillizes machine learning models for detecting credit card fraud in financial organizations. The dataset was gotten from Kaggle, containing 8 attributes and 1,000,000 rows; implementation in Python.
 
 ## Abstract
 
